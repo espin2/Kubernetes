@@ -1,1 +1,1 @@
-all kubernetes
+all kubernetes testing
